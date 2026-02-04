@@ -1,2 +1,3 @@
-profile
-
+Halaman Profile
+Nama    : 
+Jurusan : 
